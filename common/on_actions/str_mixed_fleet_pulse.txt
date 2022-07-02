@@ -1,0 +1,11 @@
+on_game_start = {
+	events = {
+		str_mixed_fleet_mod_flag.1		# Sets this mod's global flag so that other modders can check if the mod is installed. To see if patch is overwriting StarNet properly check @str_is_mixed_fleet_loaded scripted variable.
+	}
+}
+
+on_single_player_save_game_load = {
+	events = {
+		str_mixed_fleet_mod_flag.1
+	}
+}
