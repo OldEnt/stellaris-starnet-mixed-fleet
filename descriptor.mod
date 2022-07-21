@@ -4,10 +4,10 @@ tags={
 	"Fixes"
 }
 dependencies={
-	"~ Starnet AI"
+	"~ StarNet AI"
 	"StarTech AI"
 }
 picture="thumbnails.png"
-name="Starnet Mixed Fleet"
+name="StarNet Mixed Fleet"
 supported_version="3.4.*"
 remote_file_id="2473773085"
