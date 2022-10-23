@@ -9,5 +9,5 @@ dependencies={
 }
 picture="thumbnails.png"
 name="StarNet Mixed Fleet"
-supported_version="3.5.*"
+supported_version="3.*.*"
 remote_file_id="2473773085"
